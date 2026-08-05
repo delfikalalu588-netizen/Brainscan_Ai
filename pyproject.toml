@@ -1,0 +1,7 @@
+[project]
+name = "brainscan-ai"
+version = "1.0.0"
+requires-python = ">=3.11"
+
+[tool.fastapi]
+entrypoint = "src.app:app"
