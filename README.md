@@ -1,4 +1,4 @@
-# BrainScan AI — Backend (FastAPI Cloud + ONNX Runtime + Turso)
+# BrainScan AI — Backend (FastAPI Cloud + ONNX Runtime + Turso(database))
 
 ## Stack final
 - **Compute**: FastAPI Cloud
