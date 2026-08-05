@@ -42,7 +42,7 @@ CHECKPOINT_DIR = OUTPUT_DIR / "checkpoints"
 FIGURES_DIR    = OUTPUT_DIR / "figures"
 
 # ── Hugging Face Model Repo ────────────────────────────────────────────
-HF_REPO_ID = "delfidev/brain-hybrid-efficientnet-vit"
+HF_REPO_ID = "marksnb/brain-hybrid-efficientnet-vit"
 
 
 def download_model_from_hf(filename: str):
